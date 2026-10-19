@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "logo": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/webp/coffee-crema-v9GagSChFHN0stN6iFJAw.webp",
+    "title": "Coffee Corner",
+    "subtitle": "Best Coffee in Town",
+    "rating": 4.4,
+    "time": 20
+  },
+  {
+    "id": 2,
+    "logo": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=400",
+    "title": "Burger House",
+    "subtitle": "Juicy Burgers & Fries",
+    "rating": 4.5,
+    "time": 25
+  },
+  {
+    "id": 3,
+    "logo": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400",
+    "title": "Pizza Palace",
+    "subtitle": "Delicious Italian Pizza",
+    "rating": 4.6,
+    "time": 30
+  },
+  {
+    "id": 4,
+    "logo": "https://images.unsplash.com/photo-1553621042-f6e147245754?w=400",
+    "title": "Sushi World",
+    "subtitle": "Fresh Japanese Cuisine",
+    "rating": 4.7,
+    "time": 35
+  },
+  {
+    "id": 5,
+    "logo": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=400",
+    "title": "Noodle Junction",
+    "subtitle": "Asian Noodles & More",
+    "rating": 4.2,
+    "time": 25
+  },
+  {
+    "id": 6,
+    "logo": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400",
+    "title": "Burger Barn",
+    "subtitle": "Classic American Burgers",
+    "rating": 4.3,
+    "time": 20
+  },
+  {
+    "id": 7,
+    "logo": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+    "title": "Green Bowl",
+    "subtitle": "Healthy Salads & Bowls",
+    "rating": 4.5,
+    "time": 15
+  },
+  {
+    "id": 8,
+    "logo": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
+    "title": "Italian Treat",
+    "subtitle": "Pizza, Pasta & Desserts",
+    "rating": 4.4,
+    "time": 30
+  },
+  {
+    "id": 9,
+    "logo": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
+    "title": "Sweet Tooth",
+    "subtitle": "Cakes & Desserts",
+    "rating": 4.8,
+    "time": 20
+  },
+  {
+    "id": 10,
+    "logo": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
+    "title": "Samosa Express",
+    "subtitle": "Indian Snacks & Chai",
+    "rating": 4.1,
+    "time": 15
+  },
+  {
+    "id": 11,
+    "logo": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=400",
+    "title": "Spice Garden",
+    "subtitle": "Authentic Indian Food",
+    "rating": 4.5,
+    "time": 35
+  },
+  {
+    "id": 12,
+    "logo": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=400",
+    "title": "Taco Town",
+    "subtitle": "Mexican Street Food",
+    "rating": 4.3,
+    "time": 25
+  },
+  {
+    "id": 13,
+    "logo": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400",
+    "title": "Fresh Bites",
+    "subtitle": "Fresh & Healthy Meals",
+    "rating": 4.6,
+    "time": 20
+  },
+  {
+    "id": 14,
+    "logo": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400",
+    "title": "Donut Delight",
+    "subtitle": "Donuts & Sweet Treats",
+    "rating": 4.2,
+    "time": 15
+  },
+  {
+    "id": 15,
+    "logo": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400",
+    "title": "Food Fiesta",
+    "subtitle": "Your Everyday Food Stop",
+    "rating": 4.4,
+    "time": 30
+  }
+]
