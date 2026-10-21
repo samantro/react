@@ -70,3 +70,137 @@
     flex-wrap: wrap;
     gap: 20px;
 }
+
+.button-container {
+    margin: 20px 0;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.top-rated-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.top-rated-button:hover {
+    background-color: #0056b3;
+}
+
+.all-restaurants-button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.all-restaurants-button:hover {
+    background-color: #218838;
+}
+
+.login-button {
+    padding: 5px 20px;
+    background-color: #ffc107;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-button:hover {
+    background-color: #e0a800;
+}
+
+.search-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.search-input {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.user-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.user-container .user-name {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.user-container .user-age {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.user-container .user-location {
+    font-size: 1em;
+    margin: 5px 0;
+}
+
+.user-container .user-email {
+    font-size: 1em;
+    margin: 5px 0;
+}
+
+.about-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.about-container .about-title {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.about-container .about-description {
+    font-size: 1em;
+    margin: 5px 0;
+}
+
+.count-container {
+    margin-bottom: 20px;
+}
+
+.count-container .count {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.edit-mode-container {
+    margin-bottom: 20px;
+}
+
+.edit-mode-container .edit-mode {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.edit-mode-container .edit-mode {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
