@@ -3,7 +3,6 @@ import React from "react";
 class GrandChildUserClass extends React.Component {
   constructor(props) {
     super(props);
-    console.log(this.props.name + " GrandChildUserClass constructor");
   }
 
   componentDidMount() {
@@ -11,7 +10,6 @@ class GrandChildUserClass extends React.Component {
   }
 
   render() {
-    console.log(this.props.name + " GrandChildUserClass render");
     const { name } = this.props;
     return (
       <div className="user-container">

@@ -7,17 +7,17 @@ class UserClass extends React.Component {
     this.state = {
       count: 0,
       edit: false
-    }
-    console.log(this.props.name + " UserClass constructor");
+    };
   }
 
-  componentDidMount() {
-    console.log(this.props.name + " UserClass mounted");
+  async componentDidMount() {
+    const response = await fetch("https://api.github.com/users/samantro");
+    const data = await response.json();
+    console.log(data);
   }
 
   render() {
     const { name } = this.props;
-    console.log(name + " UserClass render");
     return (
       <div className="user-container">
         <div className="count-container">
